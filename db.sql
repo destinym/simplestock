@@ -24,6 +24,7 @@ mktcap   bigint,
 nmc      bigint   ,
 turnoverratio   double,
 gvi        double,
+gvi_d        double,
 createTime timestamp,
 PRIMARY KEY (id)
 )ENGINE=MyISAM DEFAULT CHARSET=utf8
